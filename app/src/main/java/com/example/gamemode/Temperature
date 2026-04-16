@@ -1,0 +1,5 @@
+package com.example.gamemode
+
+object TemperatureMonitor {
+    var temp = 0f
+}
