@@ -46,3 +46,8 @@ nexusPublishing {
         }
     }
 }
+defaultConfig {
+    applicationId "com.example.gamemode"
+    minSdk 21
+    targetSdk 34
+}
