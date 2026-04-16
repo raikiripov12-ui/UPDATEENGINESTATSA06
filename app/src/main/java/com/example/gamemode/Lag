@@ -1,0 +1,5 @@
+package com.example.gamemode
+
+object LagMonitor {
+    var lag = "OK"
+}
